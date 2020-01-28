@@ -1,0 +1,27 @@
+.formBox {
+  width: 500px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  padding: 30px;
+}
+
+.labelBox {
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.labelTitle {
+  width: 250px;
+}
+
+.sendBtn {
+  width: 200px;
+  height: 100px;
+  font-size: 16px;
+  padding: 10px;
+}
+
+.formSelect {
+  float: right;
+  width: 180px;
+}
