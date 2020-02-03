@@ -45,6 +45,7 @@ header {
   height: 100%;
   background-color: #efefef;
   padding-top: 60px;
+  padding-bottom: 100px;
 }
 
 .boxWapper {
@@ -148,4 +149,29 @@ header {
   font-size: 14px;
   text-decoration: underline;
   font-weight: normal;
+}
+
+.footer {
+  background-color: #333333;
+  display: flex;
+  padding: 30px;
+}
+
+.footerText {
+  color: #fff;
+}
+
+.eventDetailTable__title {
+  background-color: #f0f0f0;
+  border-top: 1px solid #ccc;
+  padding: 30px;
+}
+
+.eventDetailTable__text {
+  border-top: 1px solid #ccc;
+  padding: 30px;
+}
+
+.eventDetail {
+  border-top: 1px solid #ccc;
 }
