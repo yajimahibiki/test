@@ -1,6 +1,6 @@
 .formBox {
   width: 500px;
-  margin: 0 auto;
+  margin-top: 10px;
   border: 1px solid #ccc;
   padding: 30px;
 }
@@ -24,4 +24,8 @@
 .formSelect {
   float: right;
   width: 180px;
+}
+
+.formSearch {
+  font-size: 13px;
 }
