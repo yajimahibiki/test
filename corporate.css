@@ -54,7 +54,7 @@ header {
   margin: 0 auto;
 }
 
-.leftBox {
+.categoryBox {
   background-color: #fff;
   width: 220px;
   padding: 30px;
@@ -62,14 +62,14 @@ header {
   padding: 20px 20px 20px 0;
 }
 
-.leftBox__list {
+.categoryBox__list {
   font-size: 13px;
   list-style: none;
   margin-left: -20px;
   line-height: 2.4;
 }
 
-.leftBox__listTitle {
+.categoryBox__listTitle {
   font-size: 20px;
   list-style: none;
   margin-left: -20px;
@@ -78,34 +78,38 @@ header {
   margin-top: -20px;
 }
 
-.rightBox {
+.contentBox {
   background-color: #fff;
   width: 700px;
   margin-left: 20px;
   padding: 30px;
 }
 
-.rightBox__tag {
+.contentBox__tag {
   background-color: #efefef;
   padding: 5px 20px;
   width: fit-content;
 }
 
-.rightBox__tagText {
+.contentBox__tagText {
   font-size: 13px;
   line-height: 1.7;
   margin: 0;
 }
 
-.rightBox__text {
+.contentBox__text {
   font-size: 13px;
   color: #333;
   line-height: 1.8;
 }
 
-.rightBox__textTitle {
+.contentBox__textTitle {
   font-size: 16px;
   font-weight: bold;
+}
+
+.contentBox__border {
+  border: 1px solid #df0000;
 }
 
 .bottomBoxWrapper {
